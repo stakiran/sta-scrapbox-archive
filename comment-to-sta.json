@@ -1,0 +1,4 @@
+{"name":"comment-to-sta","displayName":"comment-to-sta","exported":1650173475,"pages":[
+{"title":"ここは何？","created":1648677027,"updated":1648677195,"id":"6244d09fa7c0fe001ddcf2bb","lines":["ここは何？","[*** お試しで作っているだけなのでまだ機能していません(2022/03/31)]","","","[sta.icon]へのコメントを行うためのプロジェクトです。","","コメント方法"," お使いのScrapboxにて、`[/comment-to-sta]`と書いた上でコメントを書きます","","すると、[sta.icon]がエゴサーチにてそのうち目に入れます","",""]},
+{"title":"sta","created":1648677014,"updated":1648677020,"id":"6244d08ded6cbb00237d91cf","lines":["sta","[https://gyazo.com/505861e8a5c21ae87eb972c4affd8841]","[/sta]",""]}
+]}
